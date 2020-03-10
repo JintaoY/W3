@@ -7,5 +7,12 @@ public class Doinv {
 
         System.out.println("Master2");
 
+
     }
+
+
+    public void method1(){
+        System.out.println("克隆项目，然后进行修改");
+    }
+
 }
