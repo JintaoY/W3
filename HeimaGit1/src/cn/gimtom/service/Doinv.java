@@ -5,5 +5,7 @@ public class Doinv {
 
         System.out.println("Master1");
 
+        System.out.println("Master2");
+
     }
 }
